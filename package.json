@@ -2,7 +2,7 @@
   "name": "react-weatherapp",
   "private": true,
   "version": "0.0.0",
-  "type": "module",,
+  "type": "module",
   "homepage": "https://drewschmidt145.github.io/weather-app/",
   "scripts": {
     "dev": "vite",
