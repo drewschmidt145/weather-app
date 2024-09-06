@@ -74,7 +74,7 @@ const Weather = () => {
         <img src={search_icon} alt="search" onClick={handleSearch} />
       </div>
       <img src={weatherData?.icon} alt="weather icon" className='weather-icon'/>
-      <p className='temperature'>{weatherData?.temperature}°F</p>
+      <p className='temperature'>{weatherData?.temperature} °F</p>
       <p className='location'>{weatherData?.location}</p>
       <div className="weather-data">
         <div className="col">
